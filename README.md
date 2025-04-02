@@ -1,4 +1,4 @@
-# midi2osc
+# miniprogram
 
 <div align="center">
   <p>
